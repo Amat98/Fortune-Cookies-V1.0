@@ -17,9 +17,9 @@ function App() {
     setCurrentBg(getRandom(listBg));
   };
 
-  document.body.style = `background-image: url('/${getRandom(listBg)}.webp')`;
+  // document.body.style = `background-image: url('/${getRandom(listBg)}.webp')`;
   return (
-    <main className={`App`}>
+    <main className={`App ${currentBg}`}>
       <QuoteBox handleChangeQuote={handleChangeQuote} quote={quote} />
     </main>
   );

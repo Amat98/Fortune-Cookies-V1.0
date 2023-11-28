@@ -1,4 +1,4 @@
-.body {
+/* .body {
   font-family: 'Courier New', Courier, monospace;
   background-repeat: no-repeat;
   background-position: center;
@@ -8,16 +8,13 @@
   justify-content: center;
   align-items: center;
   transition: 1s;
-}
-/* .App {
+} */
+.App {
   height: 100vh;
   background-position: center;
   background-size: cover;
   display: grid;
   place-content: center;
-} */
-
-/* main {
   transition: 1s;
 }
 
@@ -32,5 +29,4 @@
 }
 .bg4 {
   background-image: url("/bg4.webp");
-} */
-
+} 
