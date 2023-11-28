@@ -1,0 +1,36 @@
+.body {
+  font-family: 'Courier New', Courier, monospace;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 1s;
+}
+/* .App {
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  place-content: center;
+} */
+
+/* main {
+  transition: 1s;
+}
+
+.bg1 {
+  background-image: url("/bg1.webp");
+}
+.bg2 {
+  background-image: url("/bg2.webp");
+}
+.bg3 {
+  background-image: url("/bg3.webp");
+}
+.bg4 {
+  background-image: url("/bg4.webp");
+} */
+
